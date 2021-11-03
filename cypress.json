@@ -1,0 +1,10 @@
+{
+    "$schema":"https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+    "baseUrl": "https://qastoredesafio.lojaintegrada.com.br/",
+    "watchForFileChanges": true,
+    "experimentalSourceRewriting": true,
+    "experimentalStudio": true,
+    "viewportWidth": 1536,
+    "viewportHeight": 960
+
+}
